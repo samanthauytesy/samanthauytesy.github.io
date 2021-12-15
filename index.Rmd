@@ -1,0 +1,29 @@
+---
+title: ' '
+pagetitle: 'Your Name'
+output: 
+  html_document: 
+    css: "styles.css"
+---
+
+```{R echo=F, eval=F}
+#to build this website into the _site directory, run
+rmarkdown::site_generator()
+```
+<br>
+ 
+<img src="IMG_4216.jpg" style=width:30%>
+
+<br>
+
+# Welcome to Samantha Uy Tesy's Project Website
+  
+</br>
+
+#### Recent graduate from the University of Texas at Austin. Economics + Finance + Data Science.
+
+</br>
+
+##### [Click here to see my R Projects!](/portfolio)
+
+---
